@@ -20,17 +20,14 @@
 ---
 
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=dbnewgrup-afk&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dbnewgrup-afk&layout=compact&theme=radical)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=dbnewgrup-afk&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
+![Stats](https://github-readme-stats.vercel.app/api?username=dbnewgrup-afk&show_icons=true&theme=default)
 
 ---
 
-## 🎵 Now Playing
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/)
+## 🌐 Connect
+- 💼 [LinkedIn](https://linkedin.com)  
+- 📷 [Instagram](https://instagram.com)  
+- ✉️ Email: dbnewgrup@email.com  
 
+⭐ Always open for collaboration and freelance projects!
 ---
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer)
