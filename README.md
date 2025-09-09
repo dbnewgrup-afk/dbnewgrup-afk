@@ -20,19 +20,6 @@
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
 ---
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dbnewgrup-afk&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dbnewgrup-afk&layout=compact&theme=tokyonight" height="165" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dbnewgrup-afk&theme=tokyonight" height="165" />
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dbnewgrup-afk&theme=tokyonight&row=1&column=6" />
-</p>
-
 ---
 
 ## 🌐 Connect
