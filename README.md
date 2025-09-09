@@ -33,9 +33,11 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dbnewgrup-afk&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dbnewgrup-afk&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dbnewgrup-afk&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dbnewgrup-afk&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dbnewgrup-afk&layout=compact&theme=tokyonight" height="160" />
 </p>
+
 
 ---
 
